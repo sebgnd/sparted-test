@@ -22,10 +22,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
     cursor: pointer;
     transition: transform .25s;
     justify-self: stretch;
+    background-color: rgb(236, 236, 236);
 }
 
 .grid-square img {
@@ -140,9 +140,16 @@ body {
     text-align: center;
 }
 
+.spinner-center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .spinner {
-    border: 16px solid #f3f3f3;
-    border-top: 16px solid black;
+    border: 6px solid #f3f3f3;
+    border-top: 6px solid rgb(129, 129, 129);
     border-radius: 50%;
     width: 60px;
     height: 60px;
