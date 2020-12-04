@@ -1,6 +1,6 @@
 ## Image Grid
 
-1. Clone the project
+1. Clone the project: git clone https://github.com/sebgnd/sparted-test.git
 1. Go the the project folder: cd sparted-test
 1. Install dependencies: npm i
 1. Start the project: npm run dev
