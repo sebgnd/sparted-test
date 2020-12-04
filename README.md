@@ -10,4 +10,4 @@
 
 ## Preview
 
-![alt text](https://github.com/sebgnd/sparted-test/blob/main/github-images/1.jpg)
+![alt img](https://github.com/sebgnd/sparted-test/blob/main/github-images/1.jpg)
